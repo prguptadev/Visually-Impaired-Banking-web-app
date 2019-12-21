@@ -1,0 +1,15 @@
+body{
+   background-image: url('sib13.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+body h1{
+    font-family: sans-serif;
+    color:wheat;
+}
+.container{
+    background: none;
+}
